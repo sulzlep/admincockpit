@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "ເປີດໃຊ້ເພື່ອສະແດງຂໍ້ມູນເພີ່ມເຕີມ",
     "Do you like AdminCockpit?": "ເຈົ້າມັກ AdminCockpit ບໍ?",
     "Show personal settings unfolded or folded up at app start?": "ສະ​ແດງ​ໃຫ້​ເຫັນ​ການ​ຕັ້ງ​ຄ່າ​ສ່ວນ​ບຸກ​ຄົນ unfolded ຫຼື folded ຂຶ້ນ​ໃນ​ການ​ເລີ່ມ​ຕົ້ນ app ບໍ?",
-    "Show administration settings unfolded or folded up at app start?": "ສະ​ແດງ​ໃຫ້​ເຫັນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ບໍ​ລິ​ຫານ unfolded ຫຼື​ພັບ​ຂຶ້ນ​ໃນ​ການ​ເລີ່ມ​ຕົ້ນ app ບໍ?"
+    "Show administration settings unfolded or folded up at app start?": "ສະ​ແດງ​ໃຫ້​ເຫັນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ບໍ​ລິ​ຫານ unfolded ຫຼື​ພັບ​ຂຶ້ນ​ໃນ​ການ​ເລີ່ມ​ຕົ້ນ app ບໍ?",
+    "About": "About",
+    "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+    "Report an Issue": "Report an Issue",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=1; plural=0;");

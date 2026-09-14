@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "Kích hoạt để hiển thị thông tin bổ sung",
     "Do you like AdminCockpit?": "Bạn có thích AdminCockpit không?",
     "Show personal settings unfolded or folded up at app start?": "Hiển thị các thiết lập cá nhân mở ra hay gấp lại khi chạy ứng dụng?",
-    "Show administration settings unfolded or folded up at app start?": "Hiển thị các thiết lập quản lý mở ra hay gấp lại khi khởi động ứng dụng?"
+    "Show administration settings unfolded or folded up at app start?": "Hiển thị các thiết lập quản lý mở ra hay gấp lại khi khởi động ứng dụng?",
+    "About": "Giới thiệu",
+    "AdminCockpit on GitHub": "Quản trị trên GitHub",
+    "Report an Issue": "Báo cáo một vấn đề",
+    "AdminCockpit in the Appstore": "Quản trị trong các phụ kiện"
 },
 "nplurals=1; plural=0;");

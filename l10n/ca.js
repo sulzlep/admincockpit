@@ -190,6 +190,10 @@ OC.L10N.register(
     "Activate to display additional information": "Activa per a mostrar informació addicional",
     "Do you like AdminCockpit?": "T'agrada l' administració?",
     "Show personal settings unfolded or folded up at app start?": "Mostra els paràmetres personals generats o tancats en iniciar l' aplicació?",
-    "Show administration settings unfolded or folded up at app start?": "Mostra els paràmetres de l' administració es va desplegar o plegat en iniciar l' aplicació?"
+    "Show administration settings unfolded or folded up at app start?": "Mostra els paràmetres de l' administració es va desplegar o plegat en iniciar l' aplicació?",
+    "About": "Quant a",
+    "AdminCockpit on GitHub": "AdministradorCocpit al GitHub",
+    "Report an Issue": "Informe d' un llançament",
+    "AdminCockpit in the Appstore": "AdministradorCackpit al magatzem de l'aplicació"
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);");

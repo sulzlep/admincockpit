@@ -189,6 +189,10 @@ OC.L10N.register(
     "Activate to display additional information": "অতিরিক্ত তথ্য প্রদর্শন করতে সক্রিয় করুন",
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "অ্যাপ্লিকেশন আরম্ভকালে কি ব্যাক- এন্ড করা হবে না?",
-    "Show administration settings unfolded or folded up at app start?": "নতুন বৈশিষ্ট্য আরম্ভ করার সময় প্রশাসনিক বৈশিষ্ট্য পুনরায় স্থাপিত হবে কি?"
+    "Show administration settings unfolded or folded up at app start?": "নতুন বৈশিষ্ট্য আরম্ভ করার সময় প্রশাসনিক বৈশিষ্ট্য পুনরায় স্থাপিত হবে কি?",
+    "About": "পরিচিতি",
+    "AdminCockpit on GitHub": "গিটহাবে অ্যাডমিনিকপ",
+    "Report an Issue": "একটি ইস্যু প্রতিবেদন",
+    "AdminCockpit in the Appstore": "আ্যপার্টমেন্টে অ্যাডমিনিকপ"
 },
 "nplurals=2; plural=n > 1;");

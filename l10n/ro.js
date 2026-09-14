@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "Activează pentru a afișa informații suplimentare",
     "Do you like AdminCockpit?": "Îţi place AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "Afișează setările personale deschise sau pliate la pornirea aplicației?",
-    "Show administration settings unfolded or folded up at app start?": "Afișează setările de administrare deschise sau pliate la pornirea aplicației?"
+    "Show administration settings unfolded or folded up at app start?": "Afișează setările de administrare deschise sau pliate la pornirea aplicației?",
+    "About": "Despre",
+    "AdminCockpit on GitHub": "AdminCockpit pe GitHub",
+    "Report an Issue": "Raportează o problemă",
+    "AdminCockpit in the Appstore": "AdminCockpit în Appstore"
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n != 1 && n % 100 >= 1 && n % 100 <= 19) ? 1 : 2);");

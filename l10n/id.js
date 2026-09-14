@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "Aktifkan untuk menampilkan informasi tambahan",
     "Do you like AdminCockpit?": "Apakah Anda suka AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "Tampilkan pengaturan pribadi membuka atau melipat di awal aplikasi?",
-    "Show administration settings unfolded or folded up at app start?": "Tampilkan pengaturan administrasi membuka atau melipat saat aplikasi dimulai?"
+    "Show administration settings unfolded or folded up at app start?": "Tampilkan pengaturan administrasi membuka atau melipat saat aplikasi dimulai?",
+    "About": "Tentang",
+    "AdminCockpit on GitHub": "AdminCockpit di GitHub",
+    "Report an Issue": "Laporkan sebuah Isu",
+    "AdminCockpit in the Appstore": "Atur Cockpit di Appstore"
 },
 "nplurals=1; plural=0;");

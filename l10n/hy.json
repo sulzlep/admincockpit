@@ -188,7 +188,11 @@
         "Activate to display additional information": "Activate to display additional information",
         "Do you like AdminCockpit?": "Do you like AdminCockpit?",
         "Show personal settings unfolded or folded up at app start?": "Ցուցադրե՞լ անձնական կարգավորումները, որոնք բացված կամ ծալված են հավելվածի սկզբում:",
-        "Show administration settings unfolded or folded up at app start?": "Ցույց տալ ադմինիստրացիայի կարգավորումները բացված կամ ծալված հավելվածի սկզբում:"
+        "Show administration settings unfolded or folded up at app start?": "Ցույց տալ ադմինիստրացիայի կարգավորումները բացված կամ ծալված հավելվածի սկզբում:",
+        "About": "About",
+        "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+        "Report an Issue": "Report an Issue",
+        "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
     },
     "pluralForm": "nplurals=2; plural=n > 1;"
 }

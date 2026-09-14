@@ -188,7 +188,11 @@
         "Activate to display additional information": "Aktiveer om bykomende inligting te vertoon",
         "Do you like AdminCockpit?": "Hou jy van AdminCockpit?",
         "Show personal settings unfolded or folded up at app start?": "Wys persoonlike instellings oopgevou of opgevou wanneer die program begin?",
-        "Show administration settings unfolded or folded up at app start?": "Wys administrasie-instellings ontvou of opgevou by die begin van die toepassing?"
+        "Show administration settings unfolded or folded up at app start?": "Wys administrasie-instellings ontvou of opgevou by die begin van die toepassing?",
+        "About": "About",
+        "AdminCockpit on GitHub": "AdminCockpit op GitHub",
+        "Report an Issue": "Rapporteer 'n probleem",
+        "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
     },
     "pluralForm": "nplurals=2; plural=n != 1;"
 }

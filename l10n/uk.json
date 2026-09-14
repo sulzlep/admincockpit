@@ -184,7 +184,11 @@
         "Activate to display additional information": "Активувати для відображення додаткової інформації",
         "Do you like AdminCockpit?": "Вам подобається AdminCockpit?",
         "Show personal settings unfolded or folded up at app start?": "Показати особисті налаштування розгортаються або розгортаються на старті програми?",
-        "Show administration settings unfolded or folded up at app start?": "Показати налаштування адміністрування розгортається або складаний при запуску програми?"
+        "Show administration settings unfolded or folded up at app start?": "Показати налаштування адміністрування розгортається або складаний при запуску програми?",
+        "About": "Про нас",
+        "AdminCockpit on GitHub": "АдміністраторКокпіт на GitHub",
+        "Report an Issue": "Звіт про випуск",
+        "AdminCockpit in the Appstore": "АдміністраторКокпіт в Appstore"
     },
     "pluralForm": "nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);"
 }

@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "Aktivovať zobrazenie ďalších informácií",
     "Do you like AdminCockpit?": "Máš rád AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "Zobraziť osobné nastavenia rozložené alebo zložené na začiatku aplikácie?",
-    "Show administration settings unfolded or folded up at app start?": "Zobraziť nastavenia administrácie rozložené alebo zložené na začiatku aplikácie?"
+    "Show administration settings unfolded or folded up at app start?": "Zobraziť nastavenia administrácie rozložené alebo zložené na začiatku aplikácie?",
+    "About": "O",
+    "AdminCockpit on GitHub": "AdminCockpit na GitHub",
+    "Report an Issue": "Správa o spornej otázke",
+    "AdminCockpit in the Appstore": "AdminCockpit v Appstore"
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);");

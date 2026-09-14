@@ -184,7 +184,11 @@
         "Activate to display additional information": "Aktivizējiet, lai parādītu papildu informāciju",
         "Do you like AdminCockpit?": "Vai jums patīk AdminCockpit?",
         "Show personal settings unfolded or folded up at app start?": "Rādīt personiskos iestatījumus, kas atritināti vai salocīti programmas sākumā?",
-        "Show administration settings unfolded or folded up at app start?": "Parādīt administrēšanas iestatījumus nesalocītus vai salocītus programmas sākumā?"
+        "Show administration settings unfolded or folded up at app start?": "Parādīt administrēšanas iestatījumus nesalocītus vai salocītus programmas sākumā?",
+        "About": "Par",
+        "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+        "Report an Issue": "Ziņot par kādu jautājumu",
+        "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
     },
     "pluralForm": "nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= 19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);"
 }

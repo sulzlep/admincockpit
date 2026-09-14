@@ -186,6 +186,10 @@ OC.L10N.register(
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "if you like {name} ⭐ rate and/or 💬 comment on {name} in the {where}": "if you like {name}, ⭐ rate and/or 💬 comment on {name} in the {where}",
     "Show personal settings unfolded or folded up at app start?": "Show personal settings unfolded or folded up at app start?",
-    "Show administration settings unfolded or folded up at app start?": "Show administration settings unfolded or folded up at app start?"
+    "Show administration settings unfolded or folded up at app start?": "Show administration settings unfolded or folded up at app start?",
+    "About": "About",
+    "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+    "Report an Issue": "Report an Issue",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=2; plural=(n != 1);");

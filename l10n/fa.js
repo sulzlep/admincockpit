@@ -183,6 +183,10 @@ OC.L10N.register(
     "Activate to display additional information": "برای نمایش اطلاعات اضافی فعال کنید",
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "نشان دادن تنظیمات شخصی در شروع برنامه یا بسته شدن؟?",
-    "Show administration settings unfolded or folded up at app start?": "تنظیمات مدیریت نمایش در شروع برنامه آشکار شده و یا پیچ خورده شده است؟?"
+    "Show administration settings unfolded or folded up at app start?": "تنظیمات مدیریت نمایش در شروع برنامه آشکار شده و یا پیچ خورده شده است؟?",
+    "About": "درباره",
+    "AdminCockpit on GitHub": "AdminCockpit در GitHub",
+    "Report an Issue": "گزارش یک مسئله",
+    "AdminCockpit in the Appstore": "AdminCockpit در Appstore"
 },
 "nplurals=2; plural=n > 1;");

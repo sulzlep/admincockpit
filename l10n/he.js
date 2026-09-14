@@ -184,6 +184,10 @@ OC.L10N.register(
     "Activate to display additional information": "Activate to display additional information",
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "הצג הגדרות אישיות התפתחו או מקופלות באפליקציות להתחיל?",
-    "Show administration settings unfolded or folded up at app start?": "הצגת הגדרות ניהול התפתחו או מקופלות באפליקציות?"
+    "Show administration settings unfolded or folded up at app start?": "הצגת הגדרות ניהול התפתחו או מקופלות באפליקציות?",
+    "About": "אודות",
+    "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+    "Report an Issue": "דיווח על בעיה",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Apphouse"
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n == 2) ? 1 : 2);");

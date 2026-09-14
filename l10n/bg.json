@@ -188,7 +188,11 @@
         "Activate to display additional information": "Активиране за показване на допълнителна информация",
         "Do you like AdminCockpit?": "Харесваш ли AdminCockpit?",
         "Show personal settings unfolded or folded up at app start?": "Показване на лични настройки разгънати или сгънати в началото на приложението?",
-        "Show administration settings unfolded or folded up at app start?": "Показване на настройките на администрацията разгънати или сгънати при стартиране на приложението?"
+        "Show administration settings unfolded or folded up at app start?": "Показване на настройките на администрацията разгънати или сгънати при стартиране на приложението?",
+        "About": "Относно",
+        "AdminCockpit on GitHub": "AdminCockpit на GitHub",
+        "Report an Issue": "Докладвайте за проблем",
+        "AdminCockpit in the Appstore": "AdminCockpit в Appstore"
     },
     "pluralForm": "nplurals=2; plural=n != 1;"
 }

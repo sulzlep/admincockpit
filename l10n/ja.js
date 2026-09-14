@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "アクティブにすると追加情報が表示されます",
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "アプリの起動時に、個人的な設定が展開されていないか、または折りたたたまれますか?",
-    "Show administration settings unfolded or folded up at app start?": "アプリの起動時に、管理設定が展開されていないか、または折り畳まれているかを表示しますか?"
+    "Show administration settings unfolded or folded up at app start?": "アプリの起動時に、管理設定が展開されていないか、または折り畳まれているかを表示しますか?",
+    "About": "お問い合わせ",
+    "AdminCockpit on GitHub": "GitHubでAdminCockpitをフォロー",
+    "Report an Issue": "課題報告",
+    "AdminCockpit in the Appstore": "Appstoreのアドミンコックピット"
 },
 "nplurals=1; plural=0;");

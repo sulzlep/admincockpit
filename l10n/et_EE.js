@@ -189,6 +189,10 @@ OC.L10N.register(
     "Activate to display additional information": "Lisateabe kuvamiseks aktiveerige",
     "Do you like AdminCockpit?": "Kas teile meeldib AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "Kas näidata rakenduse käivitamisel isiklikke seadeid lahti või kokku voldituna?",
-    "Show administration settings unfolded or folded up at app start?": "Kas näidata rakenduse käivitamisel lahti volditud või kokku volditud administreerimise seadistusi?"
+    "Show administration settings unfolded or folded up at app start?": "Kas näidata rakenduse käivitamisel lahti volditud või kokku volditud administreerimise seadistusi?",
+    "About": "Umbes",
+    "AdminCockpit on GitHub": "AdminCockpit GitHubis",
+    "Report an Issue": "Teata probleemist",
+    "AdminCockpit in the Appstore": "AdminCockpit Appstore'is"
 },
 "nplurals=2; plural=n != 1;");

@@ -188,7 +188,11 @@
         "Activate to display additional information": "Aktivoi lisätietojen näyttäminen",
         "Do you like AdminCockpit?": "Pidätkö AdminCockpitista?",
         "Show personal settings unfolded or folded up at app start?": "Näytä henkilökohtaiset asetukset käännettyinä tai taitettuina sovelluksen alkaessa?",
-        "Show administration settings unfolded or folded up at app start?": "Näytä hallinnon asetukset käännetty tai taitettu ylös sovelluksen alussa?"
+        "Show administration settings unfolded or folded up at app start?": "Näytä hallinnon asetukset käännetty tai taitettu ylös sovelluksen alussa?",
+        "About": "Tietoja",
+        "AdminCockpit on GitHub": "GitHubin ohjaamo",
+        "Report an Issue": "Ilmoita numero",
+        "AdminCockpit in the Appstore": "Ohjaamo sovelluksessa"
     },
     "pluralForm": "nplurals=2; plural=n != 1;"
 }

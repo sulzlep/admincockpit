@@ -189,6 +189,10 @@ OC.L10N.register(
     "Activate to display additional information": "Virkjaðu til að birta viðbótarupplýsingar",
     "Do you like AdminCockpit?": "Líkar þér við AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "Sýna persónulegar stillingar óbrotnar eða uppbrotnar við ræsingu apps?",
-    "Show administration settings unfolded or folded up at app start?": "Sýna stjórnunarstillingar óbrotnar eða uppbrotnar við ræsingu apps?"
+    "Show administration settings unfolded or folded up at app start?": "Sýna stjórnunarstillingar óbrotnar eða uppbrotnar við ræsingu apps?",
+    "About": "About",
+    "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+    "Report an Issue": "Report an Issue",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=2; plural=n % 10 != 1 || n % 100 == 11;");

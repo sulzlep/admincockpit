@@ -182,6 +182,10 @@ OC.L10N.register(
     "Activate to display additional information": "啟用以顯示其他資訊",
     "Do you like AdminCockpit?": "您喜歡AdminCockpit嗎？",
     "Show personal settings unfolded or folded up at app start?": "在應用程式啟動時顯示已展開或已摺疊的個人設定？",
-    "Show administration settings unfolded or folded up at app start?": "在應用程式啟動時顯示展開或折疊的管理設定？"
+    "Show administration settings unfolded or folded up at app start?": "在應用程式啟動時顯示展開或折疊的管理設定？",
+    "About": "關於我們",
+    "AdminCockpit on GitHub": "GitHub上的AdminCockpit",
+    "Report an Issue": "回報問題",
+    "AdminCockpit in the Appstore": "Appstore中的AdminCockpit"
 },
 "nplurals=1; plural=0;");

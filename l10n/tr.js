@@ -189,6 +189,10 @@ OC.L10N.register(
     "Activate to display additional information": "Ek bilgileri görüntülemek için etkinleştirin",
     "Do you like AdminCockpit?": "AdminCockpit gibi misiniz?",
     "Show personal settings unfolded or folded up at app start?": "Uygulamada kişisel ayarlar ortaya çıktı veya katlandı mı?",
-    "Show administration settings unfolded or folded up at app start?": "Show management ayarları uygulama başında ortaya çıktı veya katlandı mı?"
+    "Show administration settings unfolded or folded up at app start?": "Show management ayarları uygulama başında ortaya çıktı veya katlandı mı?",
+    "About": "About",
+    "AdminCockpit on GitHub": "AdminCockpit at GitHub",
+    "Report an Issue": "Rapor an Issue",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=2; plural=n != 1;");

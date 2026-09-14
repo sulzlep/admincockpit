@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "Активировать для отображения дополнительной информации",
     "Do you like AdminCockpit?": "Вам нравится AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "Показать личные настройки, развернутые или сложенные в начале приложения?",
-    "Show administration settings unfolded or folded up at app start?": "Показать настройки администрирования развернутые или сложенные в начале приложения?"
+    "Show administration settings unfolded or folded up at app start?": "Показать настройки администрирования развернутые или сложенные в начале приложения?",
+    "About": "О нас",
+    "AdminCockpit on GitHub": "AdminCockpit на GitHub",
+    "Report an Issue": "Сообщить о проблеме",
+    "AdminCockpit in the Appstore": "AdminCockpit в Appstore"
 },
 "nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);");

@@ -171,7 +171,7 @@ OC.L10N.register(
     "Could not change user status": "Der Benutzerstatus konnte nicht geändert werden",
     "Could not load user data": "Benutzerdaten konnten nicht geladen werden",
     "Could not create new user. Username already exists. Try another one": "Es konnte kein neuer Benutzer erstellt werden. Der Benutzername existiert bereits. Versuchen Sie einen anderen",
-        "Could not edit user. Username already exists. Try another one": "Benutzer konnte nicht bearbeitet werden. Der Benutzername existiert bereits. Versuchen Sie einen anderen",
+    "Could not edit user. Username already exists. Try another one": "Benutzer konnte nicht bearbeitet werden. Der Benutzername existiert bereits. Versuchen Sie einen anderen",
     "Error saving user": "Fehlerspeicherung Benutzer",
     "User saved successfully": "Benutzer erfolgreich gespeichert",
     "AdminCockpit settings": "AdminCockpit Einstellungen",
@@ -190,6 +190,10 @@ OC.L10N.register(
     "Do you like AdminCockpit?": "Gefällt dir AdminCockpit?",
     "if you like {name} ⭐ rate and/or 💬 comment on {name} in the {where}": "Wenn dir {name} gefällt, ⭐ bewerte und/oder 💬 kommentiere {name} im {where}",
     "Show personal settings unfolded or folded up at app start?": "Persönliche Einstellungen beim App-Start aufgeklappt oder eingeklappt anzeigen?",
-    "Show administration settings unfolded or folded up at app start?": "Administrationseinstellungen beim App-Start aufgeklappt oder eingeklappt anzeigen?"
+    "Show administration settings unfolded or folded up at app start?": "Administrationseinstellungen beim App-Start aufgeklappt oder eingeklappt anzeigen?",
+    "About": "Über",
+    "AdminCockpit on GitHub": "AdminCockpit auf GitHub",
+    "Report an Issue": "Ein Problem melden",
+    "AdminCockpit in the Appstore": "AdminCockpit im Appstore"
 },
 "nplurals=2; plural=(n != 1);");

@@ -189,6 +189,10 @@ OC.L10N.register(
     "Activate to display additional information": "გააქტიურეთ დამატებითი ინფორმაციის ჩვენება",
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "აჩვენოთ გაშლილი ან დაკეცილი პირადი პარამეტრები აპის დაწყებისას?",
-    "Show administration settings unfolded or folded up at app start?": "აჩვენოთ ადმინისტრაციის პარამეტრები გაშლილი ან დაკეცილი აპის დაწყებისას?"
+    "Show administration settings unfolded or folded up at app start?": "აჩვენოთ ადმინისტრაციის პარამეტრები გაშლილი ან დაკეცილი აპის დაწყებისას?",
+    "About": "About",
+    "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+    "Report an Issue": "Report an Issue",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=2; plural=n != 1;");

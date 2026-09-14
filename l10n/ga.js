@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "Gníomhachtaigh chun faisnéis bhreise a thaispeáint",
     "Do you like AdminCockpit?": "An maith leat AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "Taispeáin socruithe pearsanta neamhfhillte nó fillte suas ag tús na haipe?",
-    "Show administration settings unfolded or folded up at app start?": "Taispeáin socruithe riaracháin neamhfhillte nó fillte suas ag tús na haipe?"
+    "Show administration settings unfolded or folded up at app start?": "Taispeáin socruithe riaracháin neamhfhillte nó fillte suas ag tús na haipe?",
+    "About": "About",
+    "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+    "Report an Issue": "Report an Issue",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=5; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n >= 3 && n <= 6) ? 2 : ((n >= 7 && n <= 10) ? 3 : 4)));");

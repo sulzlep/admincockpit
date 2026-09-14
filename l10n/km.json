@@ -184,7 +184,11 @@
         "Activate to display additional information": "បើកដំណើរការដើម្បីបង្ហាញព័ត៌មានបន្ថែម",
         "Do you like AdminCockpit?": "តើអ្នកចូលចិត្ត AdminCockpit ទេ?",
         "Show personal settings unfolded or folded up at app start?": "បង្ហាញការកំណត់ផ្ទាល់ខ្លួនដែលលាតត្រដាង ឬបត់ឡើងនៅពេលចាប់ផ្តើមកម្មវិធី?",
-        "Show administration settings unfolded or folded up at app start?": "បង្ហាញការកំណត់ការគ្រប់គ្រងដែលលាតត្រដាង ឬបត់ឡើងនៅពេលចាប់ផ្តើមកម្មវិធី?"
+        "Show administration settings unfolded or folded up at app start?": "បង្ហាញការកំណត់ការគ្រប់គ្រងដែលលាតត្រដាង ឬបត់ឡើងនៅពេលចាប់ផ្តើមកម្មវិធី?",
+        "About": "About",
+        "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+        "Report an Issue": "Report an Issue",
+        "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
     },
     "pluralForm": "nplurals=1; plural=0;"
 }

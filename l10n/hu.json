@@ -188,7 +188,11 @@
         "Activate to display additional information": "További információk megjelenítése",
         "Do you like AdminCockpit?": "Szereted az Administrockpit-et?",
         "Show personal settings unfolded or folded up at app start?": "A személyi beállítások kibontása vagy összecsukása az alkalmazás indításakor?",
-        "Show administration settings unfolded or folded up at app start?": "Az adminisztrációs beállítások kibontása vagy összecsukása az alkalmazás indításakor?"
+        "Show administration settings unfolded or folded up at app start?": "Az adminisztrációs beállítások kibontása vagy összecsukása az alkalmazás indításakor?",
+        "About": "Körülbelül",
+        "AdminCockpit on GitHub": "Adagolás Cockpit on GitHub",
+        "Report an Issue": "Jelentés egy kiadásról",
+        "AdminCockpit in the Appstore": "Adagolás Cockpit az Appstore-ban"
     },
     "pluralForm": "nplurals=2; plural=n != 1;"
 }

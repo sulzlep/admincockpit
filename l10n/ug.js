@@ -184,6 +184,10 @@ OC.L10N.register(
     "Activate to display additional information": "Activate to display additional information",
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "ئەپ باشلانغاندا ئېچىلغان ياكى قاتلانغان شەخسىي تەڭشەكلەرنى كۆرسىتەمسىز؟",
-    "Show administration settings unfolded or folded up at app start?": "پروگرامما باشلىغاندا ئېچىلغان ياكى قاتلانغان باشقۇرۇش تەڭشەكلىرىنى كۆرسىتىڭ؟"
+    "Show administration settings unfolded or folded up at app start?": "پروگرامما باشلىغاندا ئېچىلغان ياكى قاتلانغان باشقۇرۇش تەڭشەكلىرىنى كۆرسىتىڭ؟",
+    "About": "About",
+    "AdminCockpit on GitHub": "AdminCockpit on GitHub",
+    "Report an Issue": "مەلۇم بىر مەسىلىنى دوكلات قىلىڭ",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=2; plural=n != 1;");

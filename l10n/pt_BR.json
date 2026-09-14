@@ -163,7 +163,11 @@
         "Activate to display additional information": "Ativar para exibir informações adicionais",
         "Do you like AdminCockpit?": "Gostas do AdminCockpit?",
         "Show personal settings unfolded or folded up at app start?": "Mostrar configurações pessoais desdobradas ou dobradas no início do aplicativo?",
-        "Show administration settings unfolded or folded up at app start?": "Mostrar as configurações de administração desdobradas ou dobradas no início da aplicação?"
+        "Show administration settings unfolded or folded up at app start?": "Mostrar as configurações de administração desdobradas ou dobradas no início da aplicação?",
+        "About": "Sobre",
+        "AdminCockpit on GitHub": "AdminCockpit no GitHub",
+        "Report an Issue": "Relatar um Problema",
+        "AdminCockpit in the Appstore": "AdminCockpit na Appstore"
     },
     "pluralForm": "nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % 1000000 == 0) ? 1 : 2);"
 }

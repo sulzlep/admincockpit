@@ -189,6 +189,10 @@ OC.L10N.register(
     "Activate to display additional information": "Activar para mostrar información adicional",
     "Do you like AdminCockpit?": "¿Gustaríache o admin?",
     "Show personal settings unfolded or folded up at app start?": "Mostrar configuracións persoais despregadas ou pregadas no inicio da aplicación?",
-    "Show administration settings unfolded or folded up at app start?": "Mostrar configuracións de administración despregadas ou pregadas no inicio da aplicación?"
+    "Show administration settings unfolded or folded up at app start?": "Mostrar configuracións de administración despregadas ou pregadas no inicio da aplicación?",
+    "About": "Sobre",
+    "AdminCockpit on GitHub": "AdminCockpit en GitHub",
+    "Report an Issue": "Reportar unha cuestión",
+    "AdminCockpit in the Appstore": "AdminCockpit na Appstore"
 },
 "nplurals=2; plural=n != 1;");

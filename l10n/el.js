@@ -189,6 +189,10 @@ OC.L10N.register(
     "Activate to display additional information": "Ενεργοποίηση εμφάνισης πρόσθετων πληροφοριών",
     "Do you like AdminCockpit?": "Σου αρέσει ο Διευθυντής?",
     "Show personal settings unfolded or folded up at app start?": "Εμφάνιση προσωπικών ρυθμίσεων ξεδιπλωμένων ή διπλωμένων κατά την έναρξη της εφαρμογής?",
-    "Show administration settings unfolded or folded up at app start?": "Εμφάνιση ρυθμίσεων διαχείρισης που ξεδιπλώνονται ή διπλώνονται κατά την έναρξη της εφαρμογής?"
+    "Show administration settings unfolded or folded up at app start?": "Εμφάνιση ρυθμίσεων διαχείρισης που ξεδιπλώνονται ή διπλώνονται κατά την έναρξη της εφαρμογής?",
+    "About": "Σχετικά",
+    "AdminCockpit on GitHub": "ΔιαχειριστήςCockpit στο GitHub",
+    "Report an Issue": "Αναφορά θέματος",
+    "AdminCockpit in the Appstore": "ΔιαχειριστήςCockpit στο Appstore"
 },
 "nplurals=2; plural=n != 1;");

@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.4.5
+
+### Fixed
+- Fix Polish placeholders in pl.json/pl.js ([#30](https://github.com/zomtec2311/admincockpit/pull/30)) @jacekskorupka-bot
+- some code cleanup
+
+### Added
+- additional settings
+
+### Changed
+- **l10n:** Language files extended by additional phrases
+
 ## 1.4.4
 
 ### Fixed

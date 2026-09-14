@@ -176,6 +176,10 @@ OC.L10N.register(
     "Activate to display additional information": "Aktivovat pro zobrazení dalších informací",
     "Do you like AdminCockpit?": "Máš rád \"Admin Cockpit\"?",
     "Show personal settings unfolded or folded up at app start?": "Ukázat osobní nastavení rozložené nebo složené při spuštění aplikace?",
-    "Show administration settings unfolded or folded up at app start?": "Zobrazovat nastavení administrativy při spuštění aplikace?"
+    "Show administration settings unfolded or folded up at app start?": "Zobrazovat nastavení administrativy při spuštění aplikace?",
+    "About": "O",
+    "AdminCockpit on GitHub": "Administration Cockpit on GitHub",
+    "Report an Issue": "Zpráva o vydání",
+    "AdminCockpit in the Appstore": "Aplikace Cockpit v Appstore"
 },
 "nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);");

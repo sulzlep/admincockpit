@@ -188,7 +188,11 @@
         "Activate to display additional information": "Əlavə məlumatı göstərmək üçün aktivləşdirin",
         "Do you like AdminCockpit?": "AdminCockpit xoşunuza gəlirmi?",
         "Show personal settings unfolded or folded up at app start?": "Proqram başlayır?",
-        "Show administration settings unfolded or folded up at app start?": "Proqramın başlanğıcında istifadə olunmuş və ya qalınlaşdırılmışdır?"
+        "Show administration settings unfolded or folded up at app start?": "Proqramın başlanğıcında istifadə olunmuş və ya qalınlaşdırılmışdır?",
+        "About": "Haqqında",
+        "AdminCockpit on GitHub": "GitHub haqqında AdminCockpit",
+        "Report an Issue": "Hesabat",
+        "AdminCockpit in the Appstore": "Appstore"
     },
     "pluralForm": "nplurals=2; plural=n != 1;"
 }

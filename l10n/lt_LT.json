@@ -184,7 +184,11 @@
         "Activate to display additional information": "Suaktyvinkite, kad būtų rodoma papildoma informacija",
         "Do you like AdminCockpit?": "Ar jums patinka AdminCockpit?",
         "Show personal settings unfolded or folded up at app start?": "@ info: whatsthis?",
-        "Show administration settings unfolded or folded up at app start?": "Rodyti administravimo nustatymus atlenktus arba sulankstytus programos pradžioje?"
+        "Show administration settings unfolded or folded up at app start?": "Rodyti administravimo nustatymus atlenktus arba sulankstytus programos pradžioje?",
+        "About": "@ info: tooltip",
+        "AdminCockpit on GitHub": "GitHub srities administratorė",
+        "Report an Issue": "NAME OF TRANSLATORS",
+        "AdminCockpit in the Appstore": "Administruoti kabiną Appstore"
     },
     "pluralForm": "nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);"
 }

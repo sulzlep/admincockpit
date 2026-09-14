@@ -185,6 +185,10 @@ OC.L10N.register(
     "Activate to display additional information": "Activate to display additional information",
     "Do you like AdminCockpit?": "Do you like AdminCockpit?",
     "Show personal settings unfolded or folded up at app start?": "แสดงการตั้งค่าส่วนบุคคลที่ถูกเปิดหรือพับขึ้นเมื่อเริ่มโปรแกรมหรือไม่?",
-    "Show administration settings unfolded or folded up at app start?": "แสดงการตั้งค่าการบริหารเปิด หรือพับขึ้นเมื่อเริ่มโปรแกรม?"
+    "Show administration settings unfolded or folded up at app start?": "แสดงการตั้งค่าการบริหารเปิด หรือพับขึ้นเมื่อเริ่มโปรแกรม?",
+    "About": "เกี่ยวกับ",
+    "AdminCockpit on GitHub": "Admincockpit on GitHub",
+    "Report an Issue": "รายงาน ประเด็น",
+    "AdminCockpit in the Appstore": "AdminCockpit in the Appstore"
 },
 "nplurals=1; plural=0;");

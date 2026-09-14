@@ -181,7 +181,11 @@
         "Activate to display additional information": "激活以显示额外信息",
         "Do you like AdminCockpit?": "你喜欢行政舱吗?",
         "Show personal settings unfolded or folded up at app start?": "显示应用程序启动时已展开或折叠的个人设置吗 ?",
-        "Show administration settings unfolded or folded up at app start?": "显示应用程序启动时已展开或折叠的管理设置吗 ?"
+        "Show administration settings unfolded or folded up at app start?": "显示应用程序启动时已展开或折叠的管理设置吗 ?",
+        "About": "关于",
+        "AdminCockpit on GitHub": "GitHub 上的管理舱",
+        "Report an Issue": "报告一个问题",
+        "AdminCockpit in the Appstore": "Appstore 的管理员舱"
     },
     "pluralForm": "nplurals=1; plural=0;"
 }
